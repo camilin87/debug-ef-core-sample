@@ -8,7 +8,7 @@ Sample project that uses the [DebugEFCore Nuget package](https://www.nuget.org/p
 # Building the project  
 
 ```bash
-dotnet clean && dotnet build
+dotnet clean && && dotnet restore && dotnet build
 ```
 
 # Running the project  
